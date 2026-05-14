@@ -1,1 +1,2 @@
 # AI-Workflow-Suite
+Workflow Suite brings structure to the parts of AI work that usually fail in silence. It helps you ground prompts in real source material, turn vague ideas into deliberate instructions, and stress-test outputs for sycophancy, hallucinations, brittle logic, and hidden assumptions. The result is a cleaner, repeatable workflow for building AI systems that are easier to trust, refine, hand off, and use in higher-stakes work.
